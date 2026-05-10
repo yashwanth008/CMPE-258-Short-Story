@@ -50,11 +50,11 @@ Methods like RoCoFT and Propulsion achieve near-identical performance to full fi
 
 | # | Deliverable | Location | Status |
 |---|-------------|----------|--------|
-| 1 | 📝 Medium Article | [Link to Medium Article](#) | ✅ Published |
-| 2 | 📊 Slide Deck | [`/slides/PEFT_A2Z_Slides.pptx`](slides/) | ✅ Complete |
-| 3 | 🎥 YouTube Video (15-25 min) | [Link to YouTube](#) | ✅ Uploaded |
-| 4 | 💻 Autoresearch Reproduction | [`/autoresearch/`](autoresearch/) | ✅ Complete |
-| 5 | 📄 This README | `README.md` | ✅ Complete |
+| 1 |  Medium Article | [Link to Medium Article](https://medium.com/p/61cd778c7f17?postPublishedType=initial) | ✅ Published |
+| 2 |  Slide Deck | [`/Slides/PEFT_A2Z_Slides.pptx`](slides/) | ✅ Complete |
+| 3 |  YouTube Video (15-25 min) | [Link to YouTube](#) | ✅ Uploaded |
+| 4 |  Autoresearch Reproduction | [`/autoresearch/`](autoresearch/) | ✅ Complete |
+| 5 |  This README | `README.md` | ✅ Complete |
 
 > **Note:** Replace the `#` placeholder links above with your actual Medium and YouTube URLs before submission.
 
