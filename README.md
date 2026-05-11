@@ -52,7 +52,7 @@ Methods like RoCoFT and Propulsion achieve near-identical performance to full fi
 |---|-------------|----------|--------|
 | 1 |  Medium Article | [Link to Medium Article](https://medium.com/p/61cd778c7f17?postPublishedType=initial) | ✅ Published |
 | 2 |  Slide Deck | [`/Slides/PEFT_A2Z_Slides.pptx`](Slides/) | ✅ Complete |
-| 3 |  YouTube Video (15-25 min) | [Link to YouTube -Slides Explainations](https://drive.google.com/file/d/13vUCW93Dbcpcb0ZaOS3q02zHASCY2UfM/view?usp=sharing) | ✅ Uploaded |
+| 3 |  YouTube Video (15-25 min) | [Link to YouTube -Slides Explainations](https://drive.google.com/file/d/13vUCW93Dbcpcb0ZaOS3q02zHASCY2UfM/view?usp=sharing) & [Link to explaining code](https://drive.google.com/file/d/1nUemdxz5Qgg5TnggKpaVtrNzIfeBB2tc/view?usp=sharing)| ✅ Uploaded | 
 | 4 |  Autoresearch Reproduction | [`/autoresearch/`](autoresearch/) | ✅ Complete |
 | 5 |  This README | `README.md` | ✅ Complete |
 
